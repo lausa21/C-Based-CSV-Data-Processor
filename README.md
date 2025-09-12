@@ -3,8 +3,7 @@ This project is a command-line utility built in the C language to perform common
 
 ### 📎 Data Structure & File Format
 The program is designed to work with a `.csv` file that has a specific header and column structure. The expected columns are:
-`Location,City,Price,Rooms,Bathroom,Carpark,Type,Furnish`
-A sample `file.csv` file with this format is included in this directory.
+`Location,City,Price,Rooms,Bathroom,Carpark,Type,Furnish`. A sample `file.csv` file with this format is included in this directory.
 
 ---
 
