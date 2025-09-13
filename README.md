@@ -26,3 +26,8 @@ The program is designed to work with a `.csv` file that has a specific header an
     * **Output:** Confirms the action with a success message, for example: `Data successfully written to file sorted_data.csv!`.
 5.  **Exit**
     * Safely terminates the application.
+
+---
+
+### 🖋 Author
+Laurel Evelina Widjaja
