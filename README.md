@@ -1,6 +1,8 @@
 # 📁 C-Based CSV Data Processor
 This project was created as a part of the 1st-semester Algorithm and Programming course. It is a command-line utility built in the **C language** to perform common data manipulation tasks on a `.csv` file. The program is designed to **read a dataset from a CSV file** into memory, and then provide a user-friendly, **menu-driven** interface to **display, search, sort, and export** the data. This tool demonstrates fundamental C programming concepts including **file I/O**, **string parsing** (using `strtok`), **dynamic memory management**, **data structures**, and the implementation of **searching and sorting** algorithms.
 
+---
+
 ### 📎 Data Structure & File Format
 The program is designed to work with a `.csv` file that has a specific header and column structure. The expected columns are:
 `Location,City,Price,Rooms,Bathroom,Carpark,Type,Furnish`. A sample `file.csv` file with this format is included in this directory.
